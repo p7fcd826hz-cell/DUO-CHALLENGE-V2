@@ -1,0 +1,14 @@
+{
+  "name": "DUO CHALLENGE V2",
+  "short_name": "DUO CHALLENGE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfaff",
+  "theme_color": "#7657f6",
+  "description": "Play, learn and level up with DUO CHALLENGE.",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
